@@ -13,15 +13,16 @@ app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(express.static("public"));
 
-
+// add and update new data and ID
 var currentID = notesData.length;
 var newNote;
 
+// present latest date
 app.get("/api/notes", function (req, res) {
     return res.json(notesData);
 })
 
-
+// add new note to data 
 app.post("/api/notes", function (req, res) {
     newNote = req.body;
 

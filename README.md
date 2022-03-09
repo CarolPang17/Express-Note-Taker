@@ -1,7 +1,7 @@
 # high-quality-README-generator
 
-GitHub : https://github.com/CarolPang17/Express-Note-Taker <br />
-Heroku: https://quiet-dusk-16447.herokuapp.com/ <br />
+GitHub : [https://github.com/CarolPang17/Express-Note-Taker](https://github.com/CarolPang17/Express-Note-Taker) <br />
+Heroku: [https://quiet-dusk-16447.herokuapp.com/](https://quiet-dusk-16447.herokuapp.com/) <br />
 
 # Description
 
